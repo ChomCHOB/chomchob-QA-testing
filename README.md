@@ -1,4 +1,9 @@
 # ChomCHOB QA Engineer Testing
+Thank you for interest in ChomCHOB
+
+We have 3 sections for testing your QA knowledge and skil. When you done this task, you need to created repository for store your answers and your code.
+
+Enjoy the test. We hope to work with you together.
 
 ## Section 1 - Manual Testing Skill and Testing Knowledge
 1. หากต้องการ Design Test-case มี **Technique** อะไรบ้างที่สามารถช่วยให้การ Design Test-case เพื่อทดสอบระบบได้ครอบคลุม
