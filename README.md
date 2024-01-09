@@ -1,7 +1,7 @@
 # ChomCHOB QA Engineer Testing
 Thank you for interest in ChomCHOB
 
-We have 3 sections for testing your QA knowledge and skil. When you done this task, you need to created repository for store your answers and your code.
+We have 3 sections for testing your QA knowledge and skill. When you done this task, you need to created repository for store your answers and your code.
 
 Enjoy the test. We hope to work with you together.
 
